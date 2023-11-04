@@ -1,0 +1,6 @@
+digraph graphname {
+	factorial -> factorial
+	main -> printf
+	main -> __isoc99_scanf
+	main -> factorial
+}

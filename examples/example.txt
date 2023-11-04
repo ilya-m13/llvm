@@ -1,0 +1,1 @@
+dot -Tpng fact.gv -o fact.png
